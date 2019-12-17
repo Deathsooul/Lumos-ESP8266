@@ -1,0 +1,1 @@
+mosquitto_sub -d -u wbescro -P louco10 -t esp8266/lampadaLab
